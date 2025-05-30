@@ -49,3 +49,5 @@ HospitalWebApp/
 │ └── ReportCriteriaServlet.java
 └── WEB-INF/web.xml
 
+OutPut Images : (
+
