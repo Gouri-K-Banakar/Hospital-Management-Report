@@ -49,5 +49,5 @@ HospitalWebApp/
 │ └── ReportCriteriaServlet.java
 └── WEB-INF/web.xml
 
-OutPut Images : (
+OutPut Images : (https://github.com/Gouri-K-Banakar/Hospital-Management-Report/tree/main/Output%20Images)
 
