@@ -23,4 +23,29 @@ Reports:
 Patients admitted in a date range
 Patients with a specific ailment
 Patients assigned to a specific doctor
+Project Structure:
+HospitalWebApp/
+├── WebContent/
+│ ├── index.jsp
+│ ├── patientadd.jsp
+│ ├── patientupdate.jsp
+│ ├── patientdelete.jsp
+│ ├── patientdisplay.jsp
+│ ├── reports.jsp
+│ ├── report_form.jsp
+│ └── report_result.jsp
+├── src/
+│ ├── com/
+│ ├── dao/
+│ │ └── HospitalDAO.java
+│ ├── model/
+│ │ └── Patient.java
+│ └── servlet/
+│ ├── AddPatientServlet.java
+│ ├── UpdatePatientServlet.java
+│ ├── DeletePatientServlet.java
+│ ├── DisplayPatientsServlet.java
+│ ├── ReportServlet.java
+│ └── ReportCriteriaServlet.java
+└── WEB-INF/web.xml
 
